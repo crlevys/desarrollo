@@ -1,6 +1,7 @@
 class alumno{
 	string nombre;
+	int x;
 	public alumno(){
-		return 0;
+		return x;
 	}
 }
