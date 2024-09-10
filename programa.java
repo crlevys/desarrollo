@@ -7,5 +7,5 @@ class alumno{
 	void uno(){x=1;}
 	void dos(){x=2;}
 	void nuevo(){}
-
+	void nuevo_dos(){}
 }
